@@ -1,2 +1,2 @@
-# iSpick
-Der intelligente Spickzettel
+# ArduNote
+Der elektronische Spickzettel
